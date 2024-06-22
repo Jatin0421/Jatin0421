@@ -5,10 +5,11 @@ Hola! I'm Jatin bhaduri @jatin0421, a passionate developer who loves to explore 
 - 💞️ I’m looking to collaborate with developers passionate about open-source
   contributors interested in web development and web technologies.
   Also, designers who can help create amazing user experiences .
-- 📫 How to reach me :  📧 Email:jatinbhaduri21@gmail.com
-- 💼 LinkedIn:www.linkedin.com/in/jatin-bhaduri-3312902a7
--  🐦 Twitter:[ @BhaduriJatin214](https://x.com/BhaduriJatin214)
-- 💬 Discord: jatinb4_21
+- 📫 How to reach me :
+📧 Email:jatinbhaduri21@gmail.com
+💼 LinkedIn:www.linkedin.com/in/jatin-bhaduri-3312902a7
+🐦 X:[ @BhaduriJatin214](https://x.com/BhaduriJatin214)
+💬 Discord: jatinb4_21
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I watch scary movies for fun and sleep very fine afterwards.
    
